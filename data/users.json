@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1768995552493,
+    "firstName": "Sampann",
+    "lastName": "Neema",
+    "email": "sampannneema9@gmail.com",
+    "address": "20, Sati Gate, Rameshwar Gali Ujjain Ujjain Madhya Pradesh India, 456006",
+    "password": "Sampann@123",
+    "createdAt": "2026-01-21T11:39:12.495Z"
+  },
+  {
+    "id": 1769145673743,
+    "firstName": "Nit",
+    "lastName": "ne",
+    "email": "niti@gmail.com",
+    "address": "sasa",
+    "password": "niti",
+    "createdAt": "2026-01-23T05:21:13.743Z"
+  }
+]
